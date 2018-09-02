@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Instaiary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="need_help">Forgot your password? Get help signing in.</string>
+    <string name="register">Register</string>
+    <string name="title_activity_registration_prompt">Registration</string>
+    <string name="welcome">Hi! Welcome! We\'re glad you\'re here but there are no accounts associated with this device would you like to create one?</string>
+    <string name="register_now">Register Now</string>
+    <string name="maybe_later">Maybe Later</string>
+    <string name="title_activity_register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="recovery_contact">Recovery Contact</string>
+    <string name="cancel">Cancel</string>
+    <string name="recovery_note">Incase you forgot your login details, this contact will help you recover your account</string>
+    <string name="title_activity_message">Instaiary</string>
+    <string name="nearly">You\'re nearly there creating your account. Please resolve the following issues.</string>
+    <string name="continue_string">Continue</string>
+    <string name="title_activity_welcome">Instaiary</string>
+    <string name="title_activity_main">Instaiary</string>
+    <string name="title_section0">All Entries</string>
+    <string name="title_section1">Text Entries</string>
+    <string name="title_section2">Photo Entries</string>
+    <string name="title_section3">Video Entries</string>
+    <string name="title_section4">Search Filter</string>
+    <string name="title_section5">Date Filter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">User</string>
+    <string name="full_name">Name or Nickname</string>
+    <string name="title_section6">Logout</string>
+    <string name="reg_success">Welcome to Instaiary! Precious moments kept secret. Account successfully created please login.</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_new_entry">New Entry</string>
+    <string name="title_activity_add_entry">Instaiary</string>
+    <string name="title_activity_create_entry">Instaiary</string>
+    <string name="title_activity_my_entry">Instaiary</string>
+    <string name="title_activity_confirm_message">Instaiary</string>
+    <string name="title_activity_change_password">Instaiary</string>
+
+</resources>
